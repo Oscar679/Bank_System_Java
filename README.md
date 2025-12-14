@@ -26,13 +26,21 @@ Separation between logic, data handling, and UI
 
 🗂️ Project Structure
 ├── Account.java
+
 ├── SavingsAccount.java
+
 ├── CreditAccount.java
+
 ├── Customer.java
+
 ├── BankLogic.java
+
 ├── AccountBook.java
+
 ├── GUI.java
-├── bankData
+
+├── bankData.dat
+
 ├── minaTransaktioner2.txt
 
 Class Overview
