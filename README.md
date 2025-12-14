@@ -53,6 +53,7 @@ Customer	Stores customer information and owned accounts
 BankLogic	Core business logic for the bank system
 AccountBook	Handles file I/O and persistence of data
 GUI	Graphical user interface for interacting with the system
+
 💾 Data Persistence
 
 Account and customer data are stored locally using files.
