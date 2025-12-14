@@ -25,6 +25,7 @@ Graphical User Interface (GUI)
 Separation between logic, data handling, and UI
 
 🗂️ Project Structure
+
 ├── Account.java
 
 ├── SavingsAccount.java
